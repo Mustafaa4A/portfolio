@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 flask = "*"
+frozen-flask = "*"
+flask-flatpages = "*"
 
 [dev-packages]
 
